@@ -1,7 +1,6 @@
 # **Zihan_Mini_1**
 
 [![CI](https://github.com/nogibjj/zihan_mini_1/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/zihan_mini_1/actions/workflows/hello.yml)
-!(Yeah_Cake.png)
 
 *This is a project scaffold for my future Python project.*
 
