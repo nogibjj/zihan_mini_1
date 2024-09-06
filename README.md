@@ -2,8 +2,6 @@
 
 [![CI](https://github.com/nogibjj/zihan_mini_1/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/zihan_mini_1/actions/workflows/hello.yml)
 
-![Caaaaaaaaake](Yeah_Cake.png)
-
 *This is a project scaffold for my future Python project.*
 
 This repo contains my work for the Create Python Gitlab Template assignment of IDS 706. If you want to use this, simply refer to this in a GitHub codespace and wait for the `.devcontainer` to execute the `Makefile`, which handles the following: install, format, lint, and test.
@@ -76,5 +74,5 @@ To use this project:
 
 By following these instructions, you will be able to set up and run the project smoothly.
 
-
+![Caaaaaaaaake](Yeah_Cake.png)
 
